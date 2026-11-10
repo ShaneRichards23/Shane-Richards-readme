@@ -1,7 +1,7 @@
 # Shane-Richards-readme
 Linkedin-https://www.linkedin.com/in/shane-r-01124744a/
 email- ashanerichards@yahoo.com
-GitHub-
+GitHub-https://github.com/ShaneRichards23
 I am studying B.E Computer Science in St.Joseph's College of Engineering.
 🎓 What I Study: Pursuing a Bachelor of Engineering (B.E.) in the CSE Department (Section J) at St. Joseph College of Engineering, Chennai.
 🚀 Core Target: Building a career in software development, starting with strong programming and problem-solving foundations. 
